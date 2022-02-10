@@ -1,4 +1,4 @@
-import bytebankComposto.Cliente;
+package bytebank;
 
 public class Conta {
     double saldo;
